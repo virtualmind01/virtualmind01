@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virtualmind01
-- 👀 I’m interested in java, spring microservices
-- 🌱 I’m currently learning spring microservices
+- 👀 I’m java spring microservices developer
+- 🌱 I’m currently wokring on spring microservices
 - 💞️ I’m looking to collaborate on spring microservices
 
 <!---
